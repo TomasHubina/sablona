@@ -6,7 +6,8 @@ $otazky = array(
     "Ake mate skusenosti s webdesignom?",
 ) ;
 
-$odpovede = array("Mam zakladne znalosti",
+$odpovede = array(
+    "Mam zakladne znalosti",
     "Oblubeny programovaci jazyk je php.",
     "Prejst tento predmet",
     "Zakladne",

@@ -41,7 +41,7 @@
       </div>
       <section class="container">
         <?php include "otazky.php"; ?>
-        <?php for ($i = 0; $i < count($otazky); $i++) { ?>
+        <?php for ($i = 0; $i < count(value: $otazky); $i++) { ?>
           <div class="accordion">
             <div class="question"><?php echo $otazky[$i]; 
         ?></div>
