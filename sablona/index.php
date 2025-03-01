@@ -61,14 +61,14 @@
             <?php
             $hour = date('H');
             if ($hour < 12) {
-              echo "<h3>Dobré ráno</h3>";
+              echo "<h3>Dobré ránko</h3>";
             } elseif ($hour < 18) {
-              echo "<h3>Dobrý deň</h3>";
+              echo "<h3>Pekné poobedie</h3>";
             } else {
               echo "<h3>Dobrý večer</h3>";
             }
               ?>
-            <p><strong><em>Elit culpa id mollit irure sit. Ex ut et ea esse culpa officia ea incididunt elit velit veniam qui. Mollit deserunt culpa incididunt laborum commodo in culpa.</em></strong></p>
+            <p><strong><em>Elit culpa id mollit irure sit. Ex icia eunt elit veveniam qui. Mollit deserunt culpa incididunt laborum commodo in culpa.</em></strong></p>
           </div>
         </div>
       </section>
